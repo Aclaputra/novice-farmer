@@ -1,0 +1,7 @@
+Color Hunt: https://colorhunt.co/palette/264739
+light green: #ccffbd
+dark green: #7eca9c
+grey: #40394a
+dark purple: #1c1427
+
+challenge bg color: #28527a
