@@ -1,2 +1,2 @@
 # novice-farmer1
-Matkul Simbad challenge Novice farmer 1 using Postgresql FTP Bootstrap
+Challenge Novice farmer #1 matkul Sistem Basis Data using Postgresql FTP Bootstrap
